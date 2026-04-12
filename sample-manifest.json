@@ -1,0 +1,12 @@
+{
+  "export_job_id": "07bbed59-e842-488a-b619-95b8a2891012",
+  "id_short": 464081,
+  "published_at": "2026-04-12T19:41:38Z",
+  "repo_name": "all-restaurants-in-torrance-california-us-sample-464081",
+  "sample_asset_name": "beamstation_464081_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/464081/beamstation_464081_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 46,
+  "sample_sha256": "53abc3ab938bb51d2af6984da03951fc68eb96f77858386fca5ba91e57ed0392",
+  "sample_size_bytes": 175024,
+  "total_records": 462
+}
